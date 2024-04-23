@@ -9,24 +9,6 @@ I'm 2024 graduate living in Auckland, New Zealand.
 
 
 ## My Tech Stack
-[![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3)](https://www.w3.org/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-lightgrey?style=flat-square&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-
-[![HTML](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-white?&style=flat-square&logo=css3)](https://www.w3.org/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-white?style=flat-square&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-white?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-
 [![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-black?&style=flat-square&logo=css3)](https://www.w3.org/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -35,25 +17,7 @@ I'm 2024 graduate living in Auckland, New Zealand.
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)](https://expressjs.com/)
 [![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=fflat-square&logo=sqlite)
 
-[![HTML](https://img.shields.io/badge/HTML-darkgrey?style=flat-square&logo=html5)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-darkgrey?&style=flat-square&logo=css3)](https://www.w3.org/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-darkgrey?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-darkgrey?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-darkgrey?style=flat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-darkgrey?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-darkgrey?style=flat-square&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-darkgrey?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=fflat-square&logo=sqlite)
-
-[![HTML](https://img.shields.io/badge/HTML-07405E?style=flat-square&logo=html5)](https://www.w3.org/html/)
-[![CSS](https://img.shields.io/badge/CSS-07405E?&style=flat-square&logo=css3)](https://www.w3.org/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-07405E?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-07405E?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-07405E?style=flat-square&logo=react)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-07405E?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-07405E?style=flat-square&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=fflat-square&logo=sqlite)
 <!--
 **moa-ha/moa-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
