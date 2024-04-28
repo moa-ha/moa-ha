@@ -1,14 +1,21 @@
-## Hello World👋
+# Hello World👋
 
-Welcome to my page!
-I'm 2024 graduate living in Auckland, New Zealand.
+## Welcome to my page!
 
-- I'm looking to collaborate on exciting projects where I can apply my newly acquired skills and contribute to innovative solutions. Ready to bring my passion for coding and dedication to every challenge, I'm eager to join a dynamic team where I can continue to learn and grow as a developer
+I am a developer with experience in office work and customer service living in Auckland, New Zealand. Realizing the increasing automation of many systems and the constant evolution in this field, I chose to pursue a career in software development.
+
+I have experienced the automation trends sweeping through industries and witnessed how technology is revolutionising traditional workplace functions. This realisation has motivated me to pursue a career in software development. I believe that by actively engaging in the field responsible for driving these changes, I can remain relevant and continuously evolve throughout my career.
   
-  [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/)
+[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/)
 
+## On-going Project
+
+- <b>Tradie-Tracker</b>: tidying up the code by renaming functions and streamlining API calls solo which was from group project from bootcamp.
+- <b>LyricSync</b>: working from April 2024 as a pair.
+- [My Blog](https://moa-ha.github.io/)
 
 ## My Tech Stack
+
 [![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-black?&style=flat-square&logo=css3)](https://www.w3.org/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
