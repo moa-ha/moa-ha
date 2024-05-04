@@ -10,7 +10,7 @@ I have experienced the automation trends sweeping through industries and witness
 
 ## On-going Project
 
-- <b>Tradie-Tracker</b>: tidying up the code by renaming functions and streamlining API calls solo which was from group project from bootcamp.
+- <b>Tradie-Tracker</b>: tidying up the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.
 - <b>LyricSync</b>: working from April 2024 as a pair.
 - [My Blog](https://moa-ha.github.io/)
 
@@ -23,7 +23,6 @@ I have experienced the automation trends sweeping through industries and witness
 [![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)](https://expressjs.com/)
-[![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=fflat-square&logo=sqlite)
 
 <!--
