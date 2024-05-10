@@ -9,10 +9,11 @@ I have experienced the automation trends sweeping through industries and witness
 [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/)
 
 ## On-going Project
+- [My Blog](https://moa-ha.github.io/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
+- <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - working from April 2024 with a bootcamp friend to consolidate knowledge in various areas.
+- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - tidying up the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.
+<img src="https://raw.githubusercontent.com/moa-ha/tradie-tracker/main/client/styles/wireframe/tradie-tracker.gif" alt="Demo" width="400" height="auto" style="float: right margin-left: 20px;">
 
-- <b>Tradie-Tracker</b>: tidying up the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.
-- <b>LyricSync</b>: working from April 2024 as a pair.
-- [My Blog](https://moa-ha.github.io/)
 
 ## My Tech Stack
 
