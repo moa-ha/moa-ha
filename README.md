@@ -11,7 +11,8 @@ I have experienced the automation trends sweeping through industries and witness
 ## On-going Project
 - [My Blog](https://moa-ha.github.io/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
 - <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - working from April 2024 with a bootcamp friend to consolidate knowledge in various areas.
-- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - tidying up the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.
+- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - tidying up the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.<br>
+  Live: https://tradie-tracker.pushed.nz/
 <img src="https://raw.githubusercontent.com/moa-ha/tradie-tracker/main/client/styles/wireframe/tradie-tracker.gif" alt="Demo" width="400" height="auto" style="float: right margin-left: 20px;">
 
 
@@ -25,6 +26,9 @@ I have experienced the automation trends sweeping through industries and witness
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)](https://expressjs.com/)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=fflat-square&logo=sqlite)
+![Knex.js](https://img.shields.io/badge/Knex.js-black?style=flat-square&logo=snowflake&logoColor=FFA500)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-black?style=flat-square&logo=postman&logoColor=white)
+
 
 <!--
 **moa-ha/moa-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
