@@ -6,7 +6,8 @@ I am a developer with experience in office work and customer service living in A
 
 I have experienced the automation trends sweeping through industries and witnessed how technology is revolutionising traditional workplace functions. This realisation has motivated me to pursue a career in software development. I believe that by actively engaging in the field responsible for driving these changes, I can remain relevant and continuously evolve throughout my career.
   
-[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/) www.linkedin.com/in/moa-ha<br>
+ [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) moahaa03@gmail.com
 
 ## On-going Project
 - [My Blog](https://moa-ha.github.io/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
