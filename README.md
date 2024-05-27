@@ -28,6 +28,8 @@ I have experienced the automation trends sweeping through industries and witness
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=fflat-square&logo=sqlite)
 ![Knex.js](https://img.shields.io/badge/Knex.js-black?style=flat-square&logo=snowflake&logoColor=FFA500)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-black?style=flat-square&logo=postman&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-black?style=flat-square&logo=auth0&logoColor=white)
+
 
 
 <!--
