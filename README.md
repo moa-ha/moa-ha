@@ -2,7 +2,7 @@
 
 ## Welcome to my page!
 
-I am a full stack developer with experience in office work and customer service living in Auckland, New Zealand. Realizing the increasing automation of many systems and the constant evolution in this field, I chose to pursue a career in software development.
+I am a full stack developer with experience in office work and customer service living in Auckland, New Zealand. Realising the increasing automation of many systems and the constant evolution in this field, I chose to pursue a career in software development.
 
 I have experienced the automation trends sweeping through industries and witnessed how technology is revolutionising traditional workplace functions. This realisation has motivated me to pursue a career in software development. I believe that by actively engaging in the field responsible for driving these changes, I can remain relevant and continuously evolve throughout my career.
   
@@ -13,7 +13,7 @@ I have experienced the automation trends sweeping through industries and witness
 - [My Blog](https://moa-ha.github.io/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
 - <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> - working from Jun 2024 using some additional stack to improve and expand my skill.
 - <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - working from April 2024 with a bootcamp friend to consolidate knowledge in various areas.
-- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - tidying up the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.<br>
+- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - rearranged the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.<br>
   Live: https://tradie-tracker.pushed.nz/
 <img src="https://raw.githubusercontent.com/moa-ha/tradie-tracker/main/client/styles/wireframe/tradie-tracker.gif" alt="Demo" width="400" height="auto" style="float: right margin-left: 20px;">
 
@@ -33,7 +33,8 @@ I have experienced the automation trends sweeping through industries and witness
 ![Auth0](https://img.shields.io/badge/Auth0-black?style=flat-square&logo=auth0&logoColor=625dff)
 ![Vitest](https://img.shields.io/badge/Vitest-black?style=flat-square&logo=vite&logoColor=6E9F18)
 
-
+[![Moa's GitHub stats](https://github-readme-stats.vercel.app/api?username=moa-ha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moa-ha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **moa-ha/moa-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
