@@ -33,7 +33,6 @@ I have experienced the automation trends sweeping through industries and witness
 ![Auth0](https://img.shields.io/badge/Auth0-black?style=flat-square&logo=auth0&logoColor=625dff)
 ![Vitest](https://img.shields.io/badge/Vitest-black?style=flat-square&logo=vite&logoColor=6E9F18)
 
-[![Moa's GitHub stats](https://github-readme-stats.vercel.app/api?username=moa-ha)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moa-ha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
