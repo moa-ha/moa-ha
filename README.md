@@ -10,7 +10,7 @@ I have experienced the automation trends sweeping through industries and witness
  [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) moahaa03@gmail.com
 
 ## On-going Project
-- [My Blog](https://moa-ha.github.io/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
+- [My Blog](https://dev-moa-blog.vercel.app/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
 - <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> - working from Jun 2024 using some additional stack to improve and expand my skill.
 - <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - working from April 2024 with a bootcamp friend to consolidate knowledge in various areas.
 - <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - rearranged the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.<br>
