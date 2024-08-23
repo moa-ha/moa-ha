@@ -9,13 +9,14 @@ I have experienced the automation trends sweeping through industries and witness
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/) www.linkedin.com/in/moa-ha<br>
  [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) moahaa03@gmail.com
 
-## On-going Project
-- [My Blog](https://dev-moa-blog.vercel.app/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
-- <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> - working from Jun 2024 using some additional stack to improve and expand my skill.
-- <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - working from April 2024 with a bootcamp friend to consolidate knowledge in various areas.
-- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> - rearranged the code by renaming functions and streamlining API calls from scratch solo which was from group project from bootcamp.<br>
-  Live: https://tradie-tracker.pushed.nz/
-<img src="https://raw.githubusercontent.com/moa-ha/tradie-tracker/main/client/styles/wireframe/tradie-tracker.gif" alt="Demo" width="400" height="auto" style="float: right margin-left: 20px;">
+ ✔️ [My Blog](https://dev-moa-blog.vercel.app/) ; This is portfolio website which is a showcase of what I've learned and experienced through the projects I've worked on and am currently working on.
+
+   
+
+## Recent Projects
+- <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> https://car-gp.up.railway.app/
+- <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> https://tradie-tracker.pushed.nz/ 
+- <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - under construction
 
 
 ## My Tech Stack
