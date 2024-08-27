@@ -16,7 +16,7 @@ I have experienced the automation trends sweeping through industries and witness
 ## Recent Projects
 - <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> https://car-gp.up.railway.app/
 - <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> https://tradie-tracker.pushed.nz/ 
-- <b>LyricSync</b>: <ins>The lyrics collection App.</ins> - under construction
+- <b>LyricSync</b>: <ins>The lyrics collection App.</ins> https://lyricsync.up.railway.app/
 
 
 ## My Tech Stack
