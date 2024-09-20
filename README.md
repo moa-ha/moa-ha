@@ -2,9 +2,7 @@
 
 ## Welcome to my page!
 
-I am a full stack developer with experience in office work and customer service living in Auckland, New Zealand. Realising the increasing automation of many systems and the constant evolution in this field, I chose to pursue a career in software development.
-
-I have experienced the automation trends sweeping through industries and witnessed how technology is revolutionising traditional workplace functions. This realisation has motivated me to pursue a career in software development. I believe that by actively engaging in the field responsible for driving these changes, I can remain relevant and continuously evolve throughout my career.
+I am a full stack developer with experience in office work and customer service living in Auckland, New Zealand. Realising the increasing automation of many systems and the constant evolution in this field, I chose to pursue a career in software development. I believe that by actively engaging in the field responsible for driving these changes, I can remain relevant and continuously evolve throughout my career.
   
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moa-ha-3bb6a9244/) www.linkedin.com/in/moa-ha<br>
  [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:moahaa03@gmail.com) moahaa03@gmail.com
@@ -17,6 +15,10 @@ I have experienced the automation trends sweeping through industries and witness
 - <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> https://car-gp.up.railway.app/
 - <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> https://tradie-tracker.pushed.nz/ 
 - <b>LyricSync</b>: <ins>The lyrics collection App.</ins> https://lyricsync.up.railway.app/
+
+## 📘 Currently Studying
+
+**JavaScript Fundamentals** - Focusing on building a deeper understanding of the core concepts.
 
 
 ## My Tech Stack
