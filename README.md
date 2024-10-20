@@ -18,8 +18,8 @@ I am a full stack developer with experience in office work and customer service 
 
 ## 📘 Current Learning & Working
 
-**Clour Practitioner** <br>
-**Forest Group UI Improvement**
+- **Forest Group UI Improvement** (Freelancing as a frontend developer, helping with UI improvements )
+- **Cloud Practitioner**
 
 
 ## My Tech Stack
