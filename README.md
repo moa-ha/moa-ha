@@ -16,9 +16,10 @@ I am a full stack developer with experience in office work and customer service 
 - <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> https://tradie-tracker.pushed.nz/ 
 - <b>LyricSync</b>: <ins>The lyrics collection App.</ins> https://lyricsync.up.railway.app/
 
-## 📘 Currently Studying
+## 📘 Current Learning & Working
 
-**JavaScript Fundamentals** - Focusing on building a deeper understanding of the core concepts.
+**Clour Practitioner** <br>
+**Forest Group UI Improvement**
 
 
 ## My Tech Stack
