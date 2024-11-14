@@ -12,6 +12,7 @@ I am a full stack developer with experience in office work and customer service 
    
 
 ## Recent Projects
+- <b>Forest Group</b>: <ins>Visual and UX improvements for a more polished look (Casual Contract)</ins> https://forestgroup.co.nz/
 - <b>Car-GP</b>: <ins>The first page to check for your car's maintenance!</ins> https://car-gp.up.railway.app/
 - <b>Tradie-Tracker</b>: <ins>Efficient Work Scheduling App.</ins> https://tradie-tracker.pushed.nz/ 
 - <b>LyricSync</b>: <ins>The lyrics collection App.</ins> https://lyricsync.up.railway.app/
